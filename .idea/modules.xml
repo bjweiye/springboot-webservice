@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/springboot-webservice-client/springboot-webservice-client.iml" filepath="$PROJECT_DIR$/springboot-webservice-client/springboot-webservice-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springboot-webservice-server/springboot-webservice-server.iml" filepath="$PROJECT_DIR$/../springboot-webservice-server/springboot-webservice-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice-client/webservice-client.iml" filepath="$PROJECT_DIR$/webservice-client/webservice-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice-server/webservice-server.iml" filepath="$PROJECT_DIR$/webservice-server/webservice-server.iml" />
     </modules>
   </component>
 </project>
