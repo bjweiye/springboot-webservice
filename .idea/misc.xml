@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/../springboot-webservice-server/pom.xml" />
         <option value="$PROJECT_DIR$/webservice-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cxf-webservice-client/pom.xml" />
       </list>
     </option>
   </component>

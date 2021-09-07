@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cxf-webservice-client" />
         <module name="webservice-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="cxf-webservice-client" target="1.7" />
       <module name="springboot-webservice-client" target="8" />
       <module name="springboot-webservice-server" target="1.8" />
       <module name="webservice-server" target="1.8" />

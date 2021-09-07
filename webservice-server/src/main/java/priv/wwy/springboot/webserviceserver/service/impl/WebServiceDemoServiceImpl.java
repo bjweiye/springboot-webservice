@@ -11,7 +11,7 @@ import javax.jws.WebService;
  */
 @Service
 @WebService(serviceName = "WebServiceDemoService",
-        targetNamespace = "http://weservice.springboot.wwy.priv",
+        targetNamespace = "http://webservice.springboot.wwy.priv",
         endpointInterface = "priv.wwy.springboot.webserviceserver.service.WebServiceDemoService")
 public class WebServiceDemoServiceImpl implements WebServiceDemoService {
     @Override

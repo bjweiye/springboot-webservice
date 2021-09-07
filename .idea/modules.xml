@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cxf-webservice-client/cxf-webservice-client.iml" filepath="$PROJECT_DIR$/cxf-webservice-client/cxf-webservice-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-client/webservice-client.iml" filepath="$PROJECT_DIR$/webservice-client/webservice-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-server/webservice-server.iml" filepath="$PROJECT_DIR$/webservice-server/webservice-server.iml" />
     </modules>
